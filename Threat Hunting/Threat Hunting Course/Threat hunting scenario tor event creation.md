@@ -2,6 +2,7 @@
 
 **Unauthorized TOR Browser Installation and Use**
 
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/be45dcaf-6d46-4879-8dbc-2ed72124342c" />
 
 ## Steps the "Bad Actor" took Create Logs and IoCs:
 1. Download the TOR browser installer: https://www.torproject.org/download/
