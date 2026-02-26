@@ -1,5 +1,9 @@
-# Alexis McGuire  
-Cyber Range Portfolio
+<p align="center">
+  <img width="720" height="383" alt="image" src="https://github.com/user-attachments/assets/cf597c87-6b46-41b4-a599-6fc5358e3c28" />
+</p>
+
+# Alexis McGuire Portfolio 
+
 <h1 align="center">📚 Skool Cyber Range — Summary</h1>
 
 **[Skool Cyber Range](https://www.skool.com/cyber-range)**
