@@ -1,4 +1,5 @@
-# Alexis McGuire - Cyber Range Portfolio
+# Alexis McGuire  
+Cyber Range Portfolio
 <h1 align="center">📚 Skool Cyber Range — Summary</h1>
 
 **[Skool Cyber Range](https://www.skool.com/cyber-range)**
